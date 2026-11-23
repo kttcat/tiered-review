@@ -20,7 +20,7 @@ Full framework: [tiered-review.md](tiered-review.md) (English) · [分級審查�
 - **第二級：事後看**——唯讀整理、可逆整理、草稿，先做、做完報告。
 - **第三級：只記 log**——例行檢查，不打擾。
 
-判斷規則：不可逆、對外、牽涉他人、或分不清是哪一級，任一成立就升第一級。
+判斷規則：不可逆、對外、牽涉他人的資料或權益、或分不清是哪一級，任一成立就升第一級。
 
 完整內容：[分級審查制.md](分級審查制.md) · [tiered-review.md](tiered-review.md) (English)
 
